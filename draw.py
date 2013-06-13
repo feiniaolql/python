@@ -2,6 +2,8 @@ import wx
 import os
 import cPickle
 
+"This is my python test program."
+
 class SketchWindow(wx.Window):
 
     def __init__(self, parent, ID): 
