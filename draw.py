@@ -3,6 +3,7 @@ import os
 import cPickle
 
 "This is my python test program."
+#test
 
 class SketchWindow(wx.Window):
 
